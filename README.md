@@ -24,7 +24,7 @@ The analysis uses four datasets:
 | `Sales`            | Daily sales data (ASIN, Date, Revenue, Units)        |
 | `Promotion`        | Promotional spend (Billback by ASIN)                 |
 
-
+![Entity Relationship Diagram](https://github.com/user-attachments/assets/2c1b1879-e857-49d1-ba27-9f2b6b1558aa)
 
 ## 🔍 Analytical Focus  
 - Baseline vs. post-event comparison  
