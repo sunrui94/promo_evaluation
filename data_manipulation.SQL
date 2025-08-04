@@ -78,7 +78,7 @@ SELECT
   rs.avg_daily_units_prime,
 
 
-  --  Lift during promo vs. baseline before pormo
+  --  Lift during promo vs. baseline before promo
   ROUND(((rs.avg_daily_revenue_prime - s.avg_daily_revenue_before)
          / NULLIF(rs.avg_daily_revenue_before)) * 100, 2) AS revenue_lift_pct,
     ROUND(((rs.avg_daily_units_prime - s.avg_daily_units_before)
