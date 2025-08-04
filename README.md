@@ -36,12 +36,6 @@ The analysis uses four datasets:
 - **Excel**: Visualization and final presentation  
 - *(This SQL-to-Excel workflow is common in many retail & CPG analytics workflows, especially when communicating with cross-functional business teams)*
 
-## 🧠 Key Skills Demonstrated  
-- Relational data modeling  
-- Promotion evaluation methodology  
-- Business insight communication  
-- Cross-functional data storytelling
-
 ---
 
 > ✨ *This project reflects hands-on experience with CPG retail data and showcases how to translate raw sales data into meaningful promotional insights.*
